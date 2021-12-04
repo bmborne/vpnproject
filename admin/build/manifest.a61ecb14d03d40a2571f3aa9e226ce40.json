@@ -1,0 +1,67 @@
+{
+  "icons": [
+    {
+      "src": "/icon_180x180.86d91c1f0814d90cd788130f27797ec6.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_167x167.2535d3990b897e632e3154811f05b7ed.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_152x152.e369c60aa33e005f01de8e602149ca6b.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_120x120.4261ecb5564c28367a98290d53ed7b19.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_512x512.b73a7355523e5a1e37228eb6e08ef6e5.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.39e816ad63af1ae7ae3cddf03771c1d5.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.84c5cea67f049f61ae88552b47a43c98.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_144x144.5ade167201aaf2fbd2b3221000b85ff5.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.ad293ccb8a1304e43936b3ec69ca577c.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.a221524bbb1843aa4f526e30d51cd5ec.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_72x72.94e327e0579f3248305a73af93a90551.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ],
+  "name": "Admin",
+  "short_name": "admin",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "admin",
+  "background_color": "#fafafa",
+  "theme_color": "#714fff"
+}
